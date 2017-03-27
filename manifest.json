@@ -1,0 +1,13 @@
+{
+  "name": "NikeAdd2Cart",
+  "manifest_version": 2,
+  "version": "1",
+  "content_scripts": [
+    {
+      "matches": ["http://store.nike.com/*"],
+      "js": ["nikeaddtocart.js"]
+    }
+  ], "permissions": [
+    "tabs", "http://store.nike.com/*"
+  ]
+}
