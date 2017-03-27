@@ -4,10 +4,10 @@
   "version": "1.0",
   "content_scripts": [
     {
-      "matches": ["http://alextree.github.io/test.html/*"],
+      "matches": ["http://alextree.github.io/yayoi.html/*"],
       "js": ["autocart.js"]
     }
   ], "permissions": [
-    "tabs", "http://alextree.github.io/test.html/*"
+    "tabs", "http://alextree.github.io/yayoi.html/*"
   ]
 }
