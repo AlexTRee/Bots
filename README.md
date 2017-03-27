@@ -16,5 +16,3 @@ Go to Chrome > Settings > Extensions and click 'Reload' under Yayoi_Autocart_Bot
 You can also use the loadingpage.html for testing purposes.
 
 Cheers!
-
-Alex
