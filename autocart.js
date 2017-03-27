@@ -1,4 +1,4 @@
-// Author: Tiange Cui
+// By: Tiange Cui
 
 var time = "best_available";
 var amount = 4;
