@@ -13,6 +13,6 @@ What you need to do:
 REMEMBER, everytime you make changes, you need to RELOAD the extension. 
 Go to Chrome > Settings > Extensions and click 'Reload' under Yayoi_Autocart_Bot extension.
 
-You can also use the loadingpage.html for testing purposes.
+You can also use the loadingpage.html (or http://alextree.github.io/yayoi.html) for testing purposes.
 
 Cheers!
