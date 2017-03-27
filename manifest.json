@@ -1,0 +1,13 @@
+{
+  "name": "Yayoi_Autocart_Bot",
+  "manifest_version": 2,
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["http://alextree.github.io/test.html/*"],
+      "js": ["autocart.js"]
+    }
+  ], "permissions": [
+    "tabs", "http://alextree.github.io/test.html/*"
+  ]
+}
