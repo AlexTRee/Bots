@@ -10,4 +10,6 @@ Currently the ISSUE is that the js script cannot get the default quantity (4) to
 
 Any tech savvy please HELP! 
 
+Switch to the corresponding branches to download the file.
+
 Cheers.
