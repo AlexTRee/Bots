@@ -5,7 +5,6 @@ go:
 install: true
 
 before_script:
-  # 环境错误
   - rm -rf spider.go
 
 script:
