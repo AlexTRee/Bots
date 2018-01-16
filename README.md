@@ -1,4 +1,4 @@
-# WeChat_WangZheTouNao
+# WeChat_头脑王者
 Automatically connect your WeChat'S WangZheTouNao Mini Program with the local question pools.
 
 
