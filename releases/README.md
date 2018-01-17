@@ -15,7 +15,7 @@ Automatically connect your WeChat'S WangZheTouNao Mini Program with the local qu
    Connect wifi. Then go to Settings -> Wifi. Click the Wifi you are using, go to the 'HTTP Proxy', Configure Proxy.
    Then select 'Manual', type your server's IP address (which can be seen from your Wifi settings). put 8998 in Port field. Click SAVE.
 <div align="center">    
- <img src="././docs/03.jpg" width = "300" alt="" align=center />
+ <img src="../docs/03.jpg" width = "300" alt="" align=center />
 </div> 
 
 3. To run.
@@ -26,9 +26,9 @@ Automatically connect your WeChat'S WangZheTouNao Mini Program with the local qu
    Open WeChat, open WangZheTouNao. Now you will see the difference!
 5. The correct answer is marked【ANSWER】or【A Number】, note that not always the highest number = correct answer! So if you see multiple options have different number, make your own judgmental call.  
 <div align="center">
- <img src="../../docs/02.jpg" width = "300" alt="" align=center />
+ <img src="../docs/02.jpg" width = "300" alt="" align=center />
 	
- <img src="././docs/01.jpg" width = "300" alt="" align=center />
+ <img src="../docs/01.jpg" width = "300" alt="" align=center />
 </div>
 
 
