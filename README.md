@@ -26,6 +26,7 @@ Automatically connect your WeChat'S WangZheTouNao Mini Program with the local qu
 5. The correct answer is marked【ANSWER】or【A Number】, note that not always the highest number = correct answer! So if you see multiple options have different number, make your own judgmental call.  
 <div align="center">
  <img src="./docs/02.jpg" width = "300" alt="" align=center />
+	
  <img src="./docs/01.jpg" width = "300" alt="" align=center />
 </div>
 
