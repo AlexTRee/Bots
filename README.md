@@ -19,7 +19,7 @@ Automatically connect your WeChat'S WangZheTouNao Mini Program with the local qu
 
 3. To run.
    After you connect Wifi. download the question pool program on your computer.
-   Go to [release](https://github.com/sundy-li/wechat_brain/releases), download the program that fits your OS. Unzip.
+   Go to [release](https://github.com/AlexTRee/Bots/tree/WeChat_TouNaoWangZhe/releases), download the program that fits your OS. Unzip.
    Click brain.exe (on Windows OS)
 4. While brain.exe is running on your computer, make sure your phone is connected Wifi with Proxy you set up in step 2.
    Open WeChat, open WangZheTouNao. Now you will see the difference!
