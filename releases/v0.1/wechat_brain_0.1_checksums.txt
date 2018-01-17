@@ -1,0 +1,3 @@
+e3f2a5f03d6a4332f4a66d3c3423b0881a53f102dbe19f2075bafc6522b86dac  wechat_brain_0.1_macOS_64-bit.zip
+58ed7e6b84199aff04d2ba89e447b2ad1b072b3c9edc769e6afd69e7cfb9e391  wechat_brain_0.1_windows_64-bit.zip
+ede8eccf6686a661a3b894044db887431cd662789afc70046a62b3abf03233b5  wechat_brain_0.1_linux_64-bit.zip
