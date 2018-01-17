@@ -1,4 +1,4 @@
-# Download the correct file based your computer's Operating System.
+# Download the correct file base on your computer's Operating System.
 
 # WeChat_TouNaoWangZhe
 Automatically connect your WeChat'S WangZheTouNao Mini Program with the local question pools.
