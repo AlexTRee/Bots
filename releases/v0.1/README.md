@@ -5,7 +5,7 @@ Automatically connect your WeChat'S WangZheTouNao Mini Program with the online g
 
 ## How to use
 	
-1. Install the certificate on iPhone. [It's safe so don't worry]
+1. Install the certificate on iPhone. [It's safe so don't worry. I won't steal your BitCoins...]
    Use your cell phone browser and go to: https://github.com/AlexTRee/Bots/blob/WeChat_TouNaoWangZhe/certs/goproxy.crt
    If you are using iPhones, you need to trust the certificate. You have to do 2 things:
    	1>. Go to Settings -> General -> Profiles & Device Management -> githb.com/coreos/goproxy -> install the certificate.
