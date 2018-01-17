@@ -1,7 +1,7 @@
 # Download the correct file base on your computer's Operating System.
 
 # WeChat_TouNaoWangZhe
-Automatically connect your WeChat'S WangZheTouNao Mini Program with the local question pools.
+Automatically connect your WeChat'S WangZheTouNao Mini Program with the online gathered question pool.
 
 ## How to use
 	
