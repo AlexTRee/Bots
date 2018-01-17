@@ -23,7 +23,7 @@ Automatically connect your WeChat'S WangZheTouNao Mini Program with the local qu
    Click brain.exe (on Windows OS)
 4. While brain.exe is running on your computer, make sure your phone is connected Wifi with Proxy you set up in step 2.
    Open WeChat, open WangZheTouNao. Now you will see the difference!
-5. The correct answer is marked【标准答案】or【Number】, note that not always the highest number = correct answer! So if you see multiple options have different number, make your own judgmental call.  
+5. The correct answer is marked【ANSWER】or【A Number】, note that not always the highest number = correct answer! So if you see multiple options have different number, make your own judgmental call.  
 <div align="center">
  <img src="./docs/02.jpg" width = "300" alt="" align=center />
  <img src="./docs/01.jpg" width = "300" alt="" align=center />
